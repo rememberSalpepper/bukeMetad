@@ -4,11 +4,18 @@
   "description": "Making El Salvador More BASED Than Wakanda FR FR 🇸🇻",
   "image": "https://raw.githubusercontent.com/rememberSalpepper/bukeMetad/main/bukeleleFinal.png",
   "external_url": "https://bukelele.meme",
-  "properties": {
-    "socials": {
-      "twitter": "https://x.com/Bukele_le",
-      "tiktok": "https://www.tiktok.com/@bukele_le",
-      "website": "https://bukelele.meme"
+  "attributes": [
+    {
+      "trait_type": "Socials",
+      "value": "Twitter: https://x.com/Bukele_le"
+    },
+    {
+      "trait_type": "Socials",
+      "value": "TikTok: https://www.tiktok.com/@bukele_le"
+    },
+    {
+      "trait_type": "Socials",
+      "value": "Website: https://bukelele.meme"
     }
-  }
+  ]
 }
